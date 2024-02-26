@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Лабы на возможную продажу\Programing chapter1\Lab1\Practica\Source.cpp(54,2): warning C4551: в вызове функции отсутствует список аргументов
+D:\Лабы на возможную продажу\Programing chapter1\Lab1\Practica\Source.cpp(139,23): warning C4101: num: неиспользованная локальная переменная
+  Practica.vcxproj -> D:\Лабы на возможную продажу\Programing chapter1\Lab1\Practica\x64\Debug\Practica.exe
